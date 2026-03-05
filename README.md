@@ -1,4 +1,4 @@
-```markdown
+
 # 📄 Introdução ao Microsoft Word
 ## Criando e Estilizando Documentos Digitais
 
@@ -64,11 +64,11 @@ Entre suas principais funcionalidades estão:
 
 O formato padrão dos arquivos do Word é:
 
-```
+
 
 .docx
 
-```
+
 
 Esse formato permite salvar textos com todas as formatações aplicadas.
 
@@ -291,11 +291,11 @@ Exemplo de lista:
 
 Crie um documento com o título:
 
-```
+
 
 A importância da tecnologia na educação
 
-```
+
 
 O documento deve conter:
 
@@ -320,13 +320,5 @@ Grande parte dos documentos utilizados em empresas e instituições são criados
 Saber utilizar ferramentas como o **Microsoft Word** permite produzir documentos mais claros, organizados e profissionais.
 
 Por isso, dominar esse tipo de ferramenta é considerado uma **habilidade essencial no mundo acadêmico e no mercado de trabalho**.
-```
 
-Se quiser, professor, eu também posso montar **uma segunda parte desse material** que normalmente deixa os alunos **bem mais interessados**, com:
 
-* 🎯 **desafios de formatação (nível jogo)**
-* 🧩 **atividade estilo “corrigir documento mal formatado”**
-* 🧑‍💻 **simulação de documento profissional**
-* 🧠 **missão de laboratório no Word**
-
-Essas atividades costumam **engajar muito turma de ensino médio/técnico**.
