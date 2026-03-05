@@ -64,10 +64,10 @@ Entre suas principais funcionalidades estão:
 
 O formato padrão dos arquivos do Word é:
 
-
-
+```
 .docx
 
+```
 
 
 Esse formato permite salvar textos com todas as formatações aplicadas.
