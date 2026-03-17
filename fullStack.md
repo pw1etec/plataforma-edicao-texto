@@ -233,19 +233,4 @@ Mozilla Developer Network. Documentação Web.
 
 W3Schools. Web Development Tutorials.
 
----
 
-💡 Se quiser, eu também posso te entregar algo **muito bom para sua aula**:
-
-* **uma versão com ~15 páginas**
-* **10 figuras**
-* **6 tabelas**
-* perfeita para ensinar:
-
-  * sumário automático
-  * sumário de figuras
-  * sumário de tabelas
-  * citações
-  * referências estilo ABNT
-
-E também posso montar **a atividade de pesquisa que você quer pedir para eles depois**.
