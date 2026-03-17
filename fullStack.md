@@ -1,10 +1,3 @@
-Perfeito. Vou deixar o conteúdo **mais rico e didático**, como um **mini-TCC mais completo**, para que os alunos **aprendam enquanto formatam o documento**. Mantive também **figuras e tabelas** para que você consiga gerar:
-
-* **Sumário**
-* **Lista de Figuras**
-* **Lista de Tabelas**
-
----
 
 # CAPA
 
